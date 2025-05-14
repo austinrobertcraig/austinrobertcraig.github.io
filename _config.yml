@@ -22,9 +22,9 @@ repository               : "austinrobertcraig/austinrobertcraig.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Austin R. Craig"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Student in Economics"
   location         : "Seattle, WA"
   employer         : "University of Washington"
   uri              : # URL
