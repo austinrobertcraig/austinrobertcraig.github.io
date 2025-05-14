@@ -9,6 +9,4 @@ redirect_from:
 
 Welcome! I am a PhD student in Economics at the University of Washington. My research interests are in the fields of applied microeconomics, development, education, and environmental economics.
 
-My current research studies the effect of noise insulation projects on student test scores and migration.
-
 Before joining UW, I completed my undergraduate studies in Economics and Computer Science at Davidson College.
