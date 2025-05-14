@@ -20,8 +20,12 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+#  - title: "CV"
+#    url: /cv/
+
+  - title: "Resume"
+    url: /files/Austin_Craig_Resume.pdf
+    target: _blank
     
 #  - title: "Guide"
 #    url: /markdown/
