@@ -14,4 +14,4 @@ The map is interactive - you can click on any point or line for a description of
 
 <iframe src="{{ site.baseurl }}/files/highline-map/map.html" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
 
-I describe the process of digitizing the noise contour line in [this post]("https://austinrobertcraig.github.io/posts/2025/05/qgis/").
+I describe the process of digitizing the noise contour line in [this post](https://austinrobertcraig.github.io/posts/2025/05/qgis/).
