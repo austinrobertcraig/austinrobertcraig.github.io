@@ -12,6 +12,6 @@ I designed this map in an effort to better understand the distribution of noise 
 
 The map is interactive - you can click on any point or line for a description of what it represents.
 
-{% include files/highline-map/map.html %}
+{% include_relative files/highline-map/map.html %}
 
 I describe the process of digitizing the noise contour line in [this post]("https://austinrobertcraig.github.io/posts/2025/05/qgis/").
